@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:background="@color/green"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    >
+
+    <TextView
+        android:layout_width="318dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Note Title"
+        android:textSize="20dp"
+        android:textStyle="bold">
+
+    </TextView>
+<!--
+    <ImageView
+        android:layout_height="30dp"
+        android:layout_width="30dp"
+        android:src="@drawable/ic_edit"
+        android:layout_margin="5dp"
+        >
+
+    </ImageView>
+    <ImageView
+        android:layout_height="30dp"
+        android:layout_width="30dp"
+        android:src="@drawable/ic_delete"
+        android:layout_margin="5dp"
+        >
+
+
+    </ImageView>
+    -->
+
+
+
+</LinearLayout>

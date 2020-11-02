@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/check"
+        android:icon="@drawable/ic_check"
+        android:title="check"
+        app:showAsAction="ifRoom"
+        ></item>
+
+    <item android:id="@+id/clear"
+        android:icon="@drawable/ic_clear"
+        android:title="clear"
+        app:showAsAction="ifRoom"
+        ></item>
+    <item android:id="@+id/send"
+    android:title="Send Note Via E-Mail"
+    app:showAsAction="never"
+    ></item>
+
+</menu>
